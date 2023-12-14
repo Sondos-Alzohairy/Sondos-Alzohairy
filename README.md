@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sondos</h1>
 <h3 align="center">A Computer Science Student From Egypt</h3>
 
-- 🌱 I’m currently learning **The Basices of Computer Scince**
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+<h3 align="center">
+  Welcome to Sondos 's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+- 🌱 I’m currently learning **The Basices of Computer Scince**
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 How to reach me **sondosalzohairy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
