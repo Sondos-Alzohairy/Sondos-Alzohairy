@@ -8,8 +8,6 @@
 <h1 align="center"><span style="color:#FFD700;">Hi 👋, I'm Sondos</span></h1>
 <h3 align="center"><span style="color:#FFD700;">A Computer Science Student From Egypt</span></h3>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="center"><span style="color:#FFD700;">Welcome to My profile !</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 - 🌱 I’m currently learning <span style="color:#FFD700;">The Basics of Computer Science</span>
